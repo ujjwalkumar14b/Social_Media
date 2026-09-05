@@ -1,3 +1,4 @@
+```
 Social_Media/
 ├── backend/
 │   ├── src/
@@ -48,3 +49,4 @@ Social_Media/
     │   └── main.jsx                  # React entry point
     ├── .env                          # React environment variables
     └── package.json
+```
