@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "functions": {
+    "src/app.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "src/app.js"
+    }
+  ]
+}
